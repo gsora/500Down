@@ -1,11 +1,14 @@
 500Down
-=======
+-------
 
 Python2 script written to own 500px no-save-image-as JavaScript.
 
-Dependencies
+Dependencies:
 ------------
-	> BeautifulSoup
-	> Python Mechanize
-	> Brain
+> BeautifulSoup
+> Python Mechanize
+> Brain
 
+Usage:
+------
+> python2 500Down.py URL-HERE [-d]
