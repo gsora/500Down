@@ -5,9 +5,9 @@ Python2 script written to own 500px no-save-image-as JavaScript.
 
 Dependencies:
 ------------
-> BeautifulSoup
-> Python Mechanize
-> Brain
+	BeautifulSoup
+	Python's Mechanize
+	Brain
 
 Usage:
 ------
