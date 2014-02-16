@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 500Down
 -------
 
@@ -12,8 +12,4 @@ Dependencies:
 
 Usage:
 ------
-> python2 500Down.py URL-HERE [-d]
-=======
-pyPocket
-========
->>>>>>> c5de8186d28ba27c9e33fa87f9949d926185e62a
+	python2 500Down.py URL-HERE [-d]
